@@ -3,8 +3,8 @@
 - 🌱 This is with a motive to share knowledge...
 - 💞️ Anyone are allowed to collaborate ....
 - 📫 How to reach me .....
-      Since this is currently handled by Syed Mohammed Sameer, mohammedsameer_2019bece043@nitsri.net
-      Or with the Technical Lead of Semicolon Rishabh Kumar Gaud, rishabh_97btech19@nitsri.net
+      - Since this is currently handled by Syed Mohammed Sameer, mohammedsameer_2019bece043@nitsri.net
+      - Or with the Technical Lead of Semicolon Rishabh Kumar Gaud, rishabh_97btech19@nitsri.net
 
 <!---
 SemicolonNITSgr/SemicolonNITSgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
